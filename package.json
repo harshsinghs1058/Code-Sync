@@ -6,7 +6,7 @@
   "author": "harshsinghs1058 <harshsinghs1058@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "sudo apt install build-essential && sudo apt-get install manpages-dev"
+    "start": "sudo apt update && sudo apt install build-essential && sudo apt-get install manpages-dev"
   },
   "dependencies": {
     "cors": "^2.8.5",
